@@ -1,0 +1,14 @@
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.exe.config
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.exe
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.pdb
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.csprojResolveAssemblyReference.cache
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.csproj.CoreCompileInputs.cache
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.exe
+c:\users\mau_r\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.pdb
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.exe.config
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.exe
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\bin\Debug\Proyecto 2 mauricio.pdb
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.exe
+C:\Users\mau_l\source\repos\Proyecto 2 mauricio\Proyecto 2 mauricio\obj\Debug\Proyecto 2 mauricio.pdb
